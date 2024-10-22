@@ -1,0 +1,96 @@
+@media only screen and (min-width: 1200px) {
+
+    #infomation,
+    #jetzinha,
+    #notice01,
+    #notice02 {
+        width: 700px;
+    }
+
+    #infomation img,
+    #jetzinha img,
+    #notice01 img,
+    #notice02 img {
+        width: 550px;
+    }
+
+    #header-text {
+        font-size: 1.5em;
+        padding-left: 350px;
+    }
+}
+
+@media only screen and (max-width: 1199px) and (min-width: 768px) {
+
+    #infomation,
+    #jetzinha,
+    #notice01,
+    #notice02 {
+        width: 90%;
+    }
+
+    #infomation img,
+    #jetzinha img,
+    #notice01 img,
+    #notice02 img {
+        width: 100%;
+    }
+
+    #header-text {
+        font-size: 1.3em;
+        padding-left: 150px;
+    }
+
+    #text-first-section {
+        font-size: 1.8em;
+    }
+
+    #jogar-link a {
+        font-size: 1.1em;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    #first-section {
+        height: 50vh;
+    }
+
+    #infomation,
+    #jetzinha,
+    #notice01,
+    #notice02 {
+        width: 100%;
+        margin: 2rem 0;
+    }
+
+    #infomation img,
+    #jetzinha img,
+    #notice01 img,
+    #notice02 img {
+        width: 100%;
+    }
+
+    #header-text {
+        font-size: 1.1em;
+        padding-left: 0;
+    }
+
+    #text-first-section {
+        font-size: 1.4em;
+    }
+
+    #jogar-link a {
+        font-size: 1em;
+    }
+
+    h2 {
+        font-size: 3em;
+    }
+}
+
+@media (max-width: 768px) {
+    #footer-basic .footer-links {
+        flex-direction: column;
+        gap: 10px;
+    }
+}
