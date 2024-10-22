@@ -1,0 +1,69 @@
+#second-section {
+    height: 700px;
+    display: flex;
+    justify-content: space-around;
+    background-image: url(../images/white-wallpaper.jpg);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#notice01 {
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.219);
+    margin: 3rem 0rem 0rem 0rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 700px;
+}
+
+#notice02 {
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.219);
+    margin: 3rem 0rem 0rem 0rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 700px;
+}
+
+#notice01 img {
+    width: 550px;
+    border-radius: 9px;
+}
+
+#notice02 img {
+    width: 550px;
+    border-radius: 9px;
+}
+
+#notice01 p {
+    color: #ff4655;
+    margin-top: 1rem;
+}
+
+#notice02 p {
+    color: #ff4655;
+    margin-top: 1rem;
+}
+
+#notice01 h4 {
+    color: #ff4655;
+    margin-top: 1rem;
+}
+
+#notice02 h4 {
+    color: #ff4655;
+    margin-top: 1rem;
+}
+
+#notice01 h3 {
+    color: #ff4655;
+    margin: 1rem 0rem 1rem 0rem;
+}
+
+#notice02 h3 {
+    color: #ff4655;
+    margin: 1rem 0rem 1rem 0rem;
+}

@@ -1,0 +1,64 @@
+#third-section{
+    display: flex;
+    justify-content: space-around;
+    background-color: #070707;
+}
+
+#infomation{
+    border-radius: 20px;
+    margin: 3rem 0rem 0rem 0rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 700px;
+}
+
+#jetzinha{
+    border-radius: 20px;
+    margin: 3rem 0rem 0rem 0rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 700px;
+}
+
+#infomation img{
+    width: 550px;
+    border-radius: 9px;
+}
+
+#jetzinha img{
+    width: 550px;
+    border-radius: 9px;
+}
+
+#infomation p{
+    font-size: 1.3em;
+    font-weight: bold;
+    color: #f2f2f2;
+    margin-top: 1rem;
+}
+
+#infomation h2{
+    font-size: 6em;
+    font-weight: bold;
+    color: #f2f2f2;
+    margin-top: 1rem;
+}
+
+#infomation h3{
+    font-size: 2em;
+    font-weight: bold;
+    color: #f2f2f2;
+    margin: 1rem 0rem 1rem 0rem;
+}
+
+#infomation a{
+    padding: 0.9rem;
+    text-decoration: none;
+    font-size: 1.3em;
+    font-weight: bold;
+    border-radius: 9px;
+    background-color: #ff4655;
+    color: #f5f9f8;
+}
